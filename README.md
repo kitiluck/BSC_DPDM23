@@ -10,3 +10,11 @@ Data Preparation and Mining
 - Github 5%
 
 Final Score = Score * %attendance
+
+# Homework 1 
+MEMBERS
+- 
+-
+-
+
+PRESENTATION
