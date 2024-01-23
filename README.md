@@ -11,8 +11,9 @@ Data Preparation and Mining
 
 Final Score = Score * %attendance
 
-# Homework 1 
-MEMBERS
+# Homework 1
+กลุ่ม หอยหลอดด
+MEMBERS 
 - 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
 - 643021261-5 นางสาวจารุพร การร้อย
 - 643021263-1 นางสาวชนม์ชนก อังคุระษี
