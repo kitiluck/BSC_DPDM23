@@ -20,6 +20,7 @@ MEMBERS
 - 643021266-5 นางสาวธิติพร ใจเอื้อ
 
 PRESENTATION
+https://github.com/kitiluck/BSC_DPDM23/blob/main/HW1-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf
 
 # Homework 2
 https://github.com/kitiluck/BSC_DPDM23/blob/main/HW2_643021260-7.pdf
