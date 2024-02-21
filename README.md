@@ -35,4 +35,6 @@ https://github.com/kitiluck/BSC_DPDM23/blob/main/HW2_643021260-7.pdf
 - 643021266-5 นางสาวธิติพร ใจเอื้อ
 - 643021268-1 นายพุทธิพงศ์ ยางนอก
 - 643021273-8 นายศตวรรษ มูลสันเทียะ
-  
+
+PRESENTATION
+https://github.com/kitiluck/BSC_DPDM23/blob/main/HW3_Decision-Tree_Presentation.pdf
