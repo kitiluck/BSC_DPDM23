@@ -11,8 +11,8 @@ Data Preparation and Mining
 
 Final Score = Score * %attendance
 
-# Homework 1
-กลุ่ม หอยหลอดด
+# Homework 1 Frequent set item set และ Association rules
+กลุ่ม หอยหลอดด 
 MEMBERS 
 - 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
 - 643021261-5 นางสาวจารุพร การร้อย
@@ -22,5 +22,17 @@ MEMBERS
 PRESENTATION
 https://github.com/kitiluck/BSC_DPDM23/blob/main/HW1-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf
 
-# Homework 2
+# Homework 2 Decision Tree
 https://github.com/kitiluck/BSC_DPDM23/blob/main/HW2_643021260-7.pdf
+
+# Homework 3 Criterion & Max leav node
+กลุ่ม หอยหลอดด & กลุ่มกลุ้ม MEMBERS
+- 6 นายตะวัน เบ้าหล่อเพชร
+- 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
+- 643021261-5 นางสาวจารุพร การร้อย
+- 643021263-1 นางสาวชนม์ชนก อังคุระษี
+- 643021265-7 นายธนาธิป อินทรคีรี
+- 643021266-5 นางสาวธิติพร ใจเอื้อ
+- 643021268-1 นายพุทธิพงศ์ ยางนอก
+- 643021273-8 นายศตวรรษ มูลสันเทียะ
+  
