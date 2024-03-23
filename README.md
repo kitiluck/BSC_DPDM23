@@ -65,6 +65,20 @@ Activity | Type | Score %
 
 ### Homework 5 Perceptron Learing Example - Function AND
 
->> - HOMEWORK : [Click to PDF]()
+>> - HOMEWORK : [Click to PDF](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW%205%20_64321260-7.pdf)
 
 
+*******
+# Final Project
+> Data : Expressway accident
+>กลุ่ม หอยหลอดด & NNN
+- 643020513-9 นายภัทรธร ก้อนมณี
+- 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
+- 643021261-5 นางสาวจารุพร การร้อย
+- 643021263-1 นางสาวชนม์ชนก อังคุระษี
+- 643021266-5 นางสาวธิติพร ใจเอื้อ
+- 643020515-5 นายรัชชานนท์ ทิพย์พิมานพร
+- 643020521-0 นายวุฒิชัย คำนา
+
+>> - PRESENTATION : [Click to Slide]()
+>> - CODE : [Click to Code]()
