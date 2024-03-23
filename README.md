@@ -61,7 +61,7 @@ Activity | Type | Score %
 - 643021273-8 นายศตวรรษ มูลสันเทียะ
 
 >> - PRESENTATION : [Click to Slide]()
->> - HOMEWORK : [Click to PDF]()
+>> - HOMEWORK : [Click to PDF](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW4_criterionmax-leaf-nodes.pdf)
 
 ### Homework 5 Perceptron Learing Example - Function AND
 
