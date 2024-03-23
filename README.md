@@ -82,3 +82,27 @@ Activity | Type | Score %
 
 >> - PRESENTATION : [Click to Slide](https://github.com/kitiluck/BSC_DPDM23/blob/main/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%20NMN%20%26%20%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
 >> - CODE : [Click to Code](https://github.com/kitiluck/BSC_DPDM23/blob/main/Project.ipynb)
+
+********
+# Work Sheet 
+> Chapter 1 Introduction to Data Mining
+  - [Click to Slide]()
+
+> Chapter 2 Getting to Know Your Data
+  - [Click to Slide]()
+
+> Chapter 3 Data Preprocessing
+  - [Click to Slide]()
+
+> Chapter 6 Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
+  - [Click to Slide]()
+
+> Chapter 8 Classification: Basic Concepts
+  - [Click to Slide]()
+
+> Chapter 9 Classification: Advanced Methods
+  - [Click to Slide]()
+
+> Chapter 10 Cluster Analysis: Basic Concepts and Methods
+  - [Click to Slide]()
+  
