@@ -80,5 +80,5 @@ Activity | Type | Score %
 - 643020515-5 นายรัชชานนท์ ทิพย์พิมานพร
 - 643020521-0 นายวุฒิชัย คำนา
 
->> - PRESENTATION : [Click to Slide]()
+>> - PRESENTATION : [Click to Slide](https://github.com/kitiluck/BSC_DPDM23/blob/main/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%20NMN%20%26%20%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
 >> - CODE : [Click to Code](https://github.com/kitiluck/BSC_DPDM23/blob/main/Project.ipynb)
