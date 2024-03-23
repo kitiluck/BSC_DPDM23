@@ -16,10 +16,11 @@ Activity | Type | Score %
 | Total | Total Score (Final Score = Score * %attendance) | 100% |
 
 **********
+# Homework
+## Homework 1 Frequent set item set และ Association rules
 
-# Homework 1 Frequent set item set และ Association rules
-กลุ่ม หอยหลอดด 
-MEMBERS 
+>กลุ่ม หอยหลอดด 
+>MEMBERS 
 - 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
 - 643021261-5 นางสาวจารุพร การร้อย
 - 643021263-1 นางสาวชนม์ชนก อังคุระษี
