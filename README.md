@@ -15,6 +15,8 @@ Activity | Type | Score %
 | Github | - | 5% |
 | Total | Total Score (Final Score = Score * %attendance) | 100% |
 
+**********
+
 # Homework 1 Frequent set item set และ Association rules
 กลุ่ม หอยหลอดด 
 MEMBERS 
