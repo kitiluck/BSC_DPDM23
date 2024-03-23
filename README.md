@@ -84,25 +84,35 @@ Activity | Type | Score %
 >> - CODE : [Click to Code](https://github.com/kitiluck/BSC_DPDM23/blob/main/Project.ipynb)
 
 ********
+# Colab
+- Understanding Data [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Understanding_Data.ipynb)
+- Data Preprocessing [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Data_Preprocessing.ipynb)
+- Dimensionality Reduction PCA [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Dimensionality_Reduction_PCA.ipynb)
+- Frequent Patterns [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
+- Classification [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Classification.ipynb)
+- Training Framework [Click]([Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Classification.ipynb))
+
+
+********
 # Work Sheet 
 > Chapter 1 Introduction to Data Mining
-  - [Click to Slide]()
+  - [Chapter 1](https://github.com/kitiluck/BSC_DPDM23/blob/main/01Intro.pdf)
 
 > Chapter 2 Getting to Know Your Data
-  - [Click to Slide]()
+  - [Chapter 2](https://github.com/kitiluck/BSC_DPDM23/blob/main/02Data.pdf)
 
 > Chapter 3 Data Preprocessing
-  - [Click to Slide]()
+  - [Chapter 3](https://github.com/kitiluck/BSC_DPDM23/blob/main/03Preprocessing.pdf)
 
 > Chapter 6 Mining Frequent Patterns, Association and Correlations: Basic Concepts and Methods
-  - [Click to Slide]()
+  - [Chapter 6](https://github.com/kitiluck/BSC_DPDM23/blob/main/06FPBasic.pdf)
 
 > Chapter 8 Classification: Basic Concepts
-  - [Click to Slide]()
+  - [Chapter 8](https://github.com/kitiluck/BSC_DPDM23/blob/main/08ClassBasic.pdf)
 
 > Chapter 9 Classification: Advanced Methods
-  - [Click to Slide]()
+  - [Chapter 9](https://github.com/kitiluck/BSC_DPDM23/blob/main/09ClassAdvanced.pdf)
 
 > Chapter 10 Cluster Analysis: Basic Concepts and Methods
-  - [Click to Slide]()
+  - [Chapter 10](https://github.com/kitiluck/BSC_DPDM23/blob/main/10ClusBasic.pdf)
   
