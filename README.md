@@ -46,8 +46,7 @@ Activity | Type | Score %
 - 643021273-8 นายศตวรรษ มูลสันเทียะ
 
 >> - PRESENTATION : [Click to Slide](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW3_Decision-Tree_Presentation.pdf)
->> - CODE : [Click to Code]()
->> - HOMEWORK : [Click to PDF]()
+>> - CODE : [Click to Code](https://github.com/kitiluck/BSC_DPDM23/blob/main/Decision_Tree_HW3.ipynb)
 
 ### Homework 4 Criterion & Max leaf node (สร้างต้นไม้ด้วยการเขียนมือ)
 >กลุ่ม หอยหลอดด & กลุ่มกลุ้ม
