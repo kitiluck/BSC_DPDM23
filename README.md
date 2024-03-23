@@ -60,7 +60,7 @@ Activity | Type | Score %
 - 643021268-1 นายพุทธิพงศ์ ยางนอก
 - 643021273-8 นายศตวรรษ มูลสันเทียะ
 
->> - PRESENTATION : [Click to Slide]()
+>> - PRESENTATION : [Click to Slide](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW4_Decision-Tree_Presentation.pdf)
 >> - HOMEWORK : [Click to PDF](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW4_criterionmax-leaf-nodes.pdf)
 
 ### Homework 5 Perceptron Learing Example - Function AND
