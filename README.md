@@ -17,8 +17,8 @@ Activity | Type | Score %
 
 **********
 # Homework
-## Homework 1 Frequent set item set และ Association rules
 
+### Homework 1 Frequent set item set และ Association rules
 >กลุ่ม หอยหลอดด 
 >MEMBERS 
 - 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
@@ -26,8 +26,8 @@ Activity | Type | Score %
 - 643021263-1 นางสาวชนม์ชนก อังคุระษี
 - 643021266-5 นางสาวธิติพร ใจเอื้อ
 
-PRESENTATION
-https://github.com/kitiluck/BSC_DPDM23/blob/main/HW1-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf
+>> - PRESENTATION : [Click to Slide](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW1-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
+>> - Code : [Click to Code](https://github.com/kitiluck/BSC_DPDM23/blob/main/Freq_HW1.ipynb)
 
 # Homework 2 Decision Tree
 https://github.com/kitiluck/BSC_DPDM23/blob/main/HW2_643021260-7.pdf
