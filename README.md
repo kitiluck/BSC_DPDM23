@@ -81,4 +81,4 @@ Activity | Type | Score %
 - 643020521-0 นายวุฒิชัย คำนา
 
 >> - PRESENTATION : [Click to Slide]()
->> - CODE : [Click to Code]()
+>> - CODE : [Click to Code](https://github.com/kitiluck/BSC_DPDM23/blob/main/Project.ipynb)
