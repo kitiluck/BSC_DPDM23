@@ -90,7 +90,7 @@ Activity | Type | Score %
 - Dimensionality Reduction PCA [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Dimensionality_Reduction_PCA.ipynb)
 - Frequent Patterns [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
 - Classification [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Classification.ipynb)
-- Training Framework [Click]([Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Classification.ipynb))
+- Training Framework [Click](https://github.com/kitiluck/BSC_DPDM23/blob/main/Classification.ipynb)
 
 
 ********
