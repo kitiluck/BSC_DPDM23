@@ -27,13 +27,15 @@ Activity | Type | Score %
 - 643021266-5 นางสาวธิติพร ใจเอื้อ
 
 >> - PRESENTATION : [Click to Slide](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW1-%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%94.pdf)
->> - Code : [Click to Code](https://github.com/kitiluck/BSC_DPDM23/blob/main/Freq_HW1.ipynb)
+>> - CODE : [Click to Code](https://github.com/kitiluck/BSC_DPDM23/blob/main/Freq_HW1.ipynb)
 
-# Homework 2 Decision Tree
-https://github.com/kitiluck/BSC_DPDM23/blob/main/HW2_643021260-7.pdf
+### Homework 2 Decision Tree
 
-# Homework 3 Criterion & Max leav node
-กลุ่ม หอยหลอดด & กลุ่มกลุ้ม MEMBERS
+>> - HOMEWORK : [Click to PDF](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW2_643021260-7.pdf)
+
+### Homework 3 Criterion & Max leaf node
+>กลุ่ม หอยหลอดด & กลุ่มกลุ้ม
+>MEMBERS
 - 6 นายตะวัน เบ้าหล่อเพชร
 - 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
 - 643021261-5 นางสาวจารุพร การร้อย
@@ -43,5 +45,27 @@ https://github.com/kitiluck/BSC_DPDM23/blob/main/HW2_643021260-7.pdf
 - 643021268-1 นายพุทธิพงศ์ ยางนอก
 - 643021273-8 นายศตวรรษ มูลสันเทียะ
 
-PRESENTATION
-https://github.com/kitiluck/BSC_DPDM23/blob/main/HW3_Decision-Tree_Presentation.pdf
+>> - PRESENTATION : [Click to Slide](https://github.com/kitiluck/BSC_DPDM23/blob/main/HW3_Decision-Tree_Presentation.pdf)
+>> - CODE : [Click to Code]()
+>> - HOMEWORK : [Click to PDF]()
+
+### Homework 4 Criterion & Max leaf node (สร้างต้นไม้ด้วยการเขียนมือ)
+>กลุ่ม หอยหลอดด & กลุ่มกลุ้ม
+>MEMBERS
+- 643020501-6 นายตะวัน เบ้าหล่อเพชร
+- 643021260-7 นางสาวกิติลักษณ์ ลาดโฮม
+- 643021261-5 นางสาวจารุพร การร้อย
+- 643021263-1 นางสาวชนม์ชนก อังคุระษี
+- 643021265-7 นายธนาธิป อินทรคีรี
+- 643021266-5 นางสาวธิติพร ใจเอื้อ
+- 643021268-1 นายพุทธิพงศ์ ยางนอก
+- 643021273-8 นายศตวรรษ มูลสันเทียะ
+
+>> - PRESENTATION : [Click to Slide]()
+>> - HOMEWORK : [Click to PDF]()
+
+### Homework 5 Perceptron Learing Example - Function AND
+
+>> - HOMEWORK : [Click to PDF]()
+
+
