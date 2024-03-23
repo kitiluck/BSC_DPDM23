@@ -1,4 +1,4 @@
-**กิติลักษณ์ ลาดโฮม ID: 643021260-7**
+**[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)กิติลักษณ์ ลาดโฮม ID: 643021260-7**
 
 # BSC_DPDM23
 Data Preparation and Mining
@@ -16,7 +16,7 @@ Activity | Type | Score %
 | Total | Total Score (Final Score = Score * %attendance) | 100% |
 
 **********
-[Homework]
+# Homework
 
 ### Homework 1 Frequent set item set และ Association rules
 >กลุ่ม หอยหลอดด 
